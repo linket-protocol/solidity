@@ -246,7 +246,7 @@ command-line builds:
 Our OS X build script uses `the Homebrew <http://brew.sh>`_
 package manager for installing external dependencies.
 Here's how to `uninstall Homebrew
-<https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#how-do-i-uninstall-homebrew>`_,
+<https://docs.brew.sh/FAQ#how-do-i-uninstall-homebrew>`_,
 if you ever want to start again from scratch.
 
 Prerequisites - Windows
@@ -278,8 +278,8 @@ in Visual Studio 2017 Build Tools or Visual Studio 2017:
 * Windows 8.1 SDK
 * C++/CLI support
 
-.. _Visual Studio 2017: https://www.visualstudio.com/vs/
-.. _Visual Studio 2017 Build Tools: https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+.. _Visual Studio 2017: https://visualstudio.microsoft.com/vs/older-downloads/#visual-studio-2017-family
+.. _Visual Studio 2017 Build Tools: https://chocolatey.org/packages/visualstudio2017buildtools
 
 Dependencies Helper Script
 --------------------------
